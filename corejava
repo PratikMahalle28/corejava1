@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		section{display:flex;}
+		section>div{flex:1;}
+		#sec1{background-color:blue;
+			padding:10px;}
+			#sec1>div>span{color:white;
+				font-size:28px;
+				font-family: Impact;}
+				#ld{text-align:right;}
+				#sec2{width=100%;height=400px;background-image:url("http://www.michaelmolloy.co.uk/car-photography/photographs/portfolio/automobile-photography.jpg");
+				background-size: 100% 100%;}
+				#sec2>div>h3,
+				#sec2>div>ul,
+				#sec2>div>form>h3,
+				#sec3>div>form>p,
+				#sec2>li{color:white;
+					text-transform:uppercase;}
+					#sec2>div{padding-top:20px;
+						margin-left:70px;}
+						#sec2>div>h3{font-size:30px;}
+						#sec2>div>u1{font-size:24px;}
+						#sec2>div>form{background-color:rgb(80,199,199);
+							width:250px;
+							padding:10px;margin-bottom: 20px;
+
+						 }
+							#sec2>div>form>input[type="text"],
+							#sec2>div>form>input[type="email"],
+							#sec2>div>form>input[type="tel"]
+							{width:90%;
+								padding:7px;
+								margin:4px;}
+								input[type="submit"]{
+									background-color: orange;
+									color:white;
+									width:250px;
+									padding:14px;
+									margin:4px;
+								}
+
+								#sec3{back-ground color:lightgray;
+									padding:20px;}
+									#img-back{background-image:url("https://www.pngpix.com/wp-content/uploads/2016/06/PNGPIX-COM-Buick-Avista-Blue-Car-PNG-Image.png");
+									background-size:90% 100%;
+									background-repeat:no-repeat;}
+									#sec4{margin:30px;}
+									#img-back>h1{color:white;
+										text-algin:center;}
+										#sec5{background-color:blue;
+											padding:10px;}
+											#img-back{background-image:url("https://www.pngpix.com/wp-content/uploads/2016/06/PNGPIX-COM-Buick-Avista-Blue-Car-PNG-Image.png");
+											background-size:90% 100%;
+											background-repeat:no-repeat;}
+											#sec4{margin:30px;}
+											#img-back>h1{color:white;
+												text-algin:center;}
+												#lastone{text-align:center;
+													padding:20px;}
+													#lastone>a{font-size:32px;
+														color:#86fc7c;}
+														#footer{background-color:black;
+															color:white;
+															padding:10px;
+															text-algin:center;}
+														</style>
+													</head>
+													<body>
+														<section id="sec1">
+															<div>
+																<span>online</span>
+																<span>car Rental</span>
+															</div>
+															<div id="ld">
+																<span>starting at $49/day</span>
+															</div>
+														</section>
+														<!-- my first section is complete -->
+
+														<section id="sec2">
+															<div>
+																<h3>The best online</h3>
+																<h3>car retails services</h3>
+																<ul>
+																	<li>vehical LEASINGlong term</li>
+																	<li>short term carrental</li>
+																	<li>Airport transfers</li>
+																</ul>
+															</div>
+															<div>
+																<form>
+																	<h1>Book Your Car</h1>
+																	<p>
+																		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+																		tempor incididunt ut labore 
+																	</p>
+																	<input type="text" name="name" placeholder="Enter Name"><br>
+																	<input type="email" name="email" placeholder="Enter Email"><br>
+																	<input type="tel" name="Contact" placeholder="Enter Contact"><br>
+																	<input type="text" name="Address" placeholder="Enter Address"><br>
+																	<input type="submit" name="" value="Book Now"><br>
+																	<p> This is simple form</p>
+																</form>
+															</div>
+														</section>
+														<!-- section second end there.-->
+
+
+														<section id="sec3">
+															<div>
+																<h1>THE BEST CAR RETAILS</h1>
+																<h1>AT THE LOWEST RATES</h1>
+																<p> ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+																	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+																	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+																	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+																	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+																	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+																</p>
+
+
+															</div>
+															<div>
+																<p> ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+																	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+																	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+																	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+																	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+																	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+																</p>
+															</div>
+														</section>
+														<!-- section three end -->
+
+														<section id="sec4">
+															<div id="img-back">
+																<h1>Hurry up limited time</h1>
+
+															</div>
+															<div>
+
+																<h1>THE LONGER YOUR END</h1>
+																<h1>THE MORE YOUR SAFE</h1>
+																<p> ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+																	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+																	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+																	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+																	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+																	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+																</p>
+
+
+															</div>
+														</section>
+														<!-- section four end here-->
+
+														<section id="sec5">
+															<div>
+																<h1>Why us?</h1>
+																<p> ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+																	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+																	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
+																</p>
+
+
+
+															</div>
+															<div>
+																<h1>AWESSOMES FEATURES</h1>
+																<p> ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+																	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+																	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
+																</p>
+
+
+															</div>
+															<div>
+																<h1>About Car Rentils</h1>
+																<p> ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+																	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+																	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
+																</p>
+															</div>
+														</section>
+														<!-- section five here.-->
+
+
+														<section id="sec6">
+															<div>
+																<h1>THE BEST CAR RETAILS</h1>
+																<h1>AT THE LOWEST RATES</h1>
+																<p> ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+																	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+																	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+																	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+																	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+																	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+																</p>
+
+
+															</div>
+															<div>
+																<p> ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+																	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+																	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+																	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+																	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+																	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+																</p>
+															</div>
+														</section>
+														<!-- section three end -->
+
+
+														<section id="sec6">
+															<div>
+
+																<h1>THE LONGER YOUR END</h1>
+																<h1>THE MORE YOUR SAFE</h1>
+																<p> ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+																	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+																	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+																	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+																	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+																	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+																</p>
+															</div>
+															<div id="img-back">
+																<h1>Hurry up limited time</h1>
+
+															</div>
+														</section>
+														<!-- section six end here-->
+
+														<section id="sec5">
+															<div>
+																<h1>Why us?</h1>
+																<p> ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+																	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+																	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
+																</p>
+
+
+
+															</div>
+															<div>
+																<img src="https://www.valleychevy.com/wp-content/uploads/19Corvette-Z06-bean-500px.png" width="90%" height="90%">
+
+
+															</div>
+															<div>
+																<h1>About Car Rentils</h1>
+																<p> ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+																	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+																	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
+																</p>
+															</div>
+														</section>
+														<div id="lastone">
+															<p>ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+																tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+															quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
+															<p>ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+																tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+															quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
+															<a href="">Download From Here </a>
+														</div>
+														<div id="footer">
+															<h3>&copy:Copyuwrites 2020-2021 All Right are Reverse to Tevchreal Developed and Maintained by ArjunDeep</h3>
+														</div>
+													</body>
+													</html>
